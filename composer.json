@@ -1,0 +1,8 @@
+{
+    "require": {
+        "aliyuncs/oss-sdk-php": "^2.2",
+        "silex/silex": "~2.0",
+        "davedevelopment/phpmig": "^1.3",
+        "monolog/monolog": "^1.22"
+    }
+}

@@ -1,0 +1,4 @@
+/config/config_dev.php
+/config/config_prod.php
+/.idea
+/vendor
